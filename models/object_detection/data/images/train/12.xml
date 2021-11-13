@@ -1,0 +1,50 @@
+<annotation>
+	<folder>transfer learning</folder>
+	<filename>12.jpg</filename>
+	<path>E:\CodeExercise\tf\traffic signs\transfer learning\12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4080</width>
+		<height>3060</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>first</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1425</xmin>
+			<ymin>773</ymin>
+			<xmax>2015</xmax>
+			<ymax>1297</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>straight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2192</xmin>
+			<ymin>810</ymin>
+			<xmax>2565</xmax>
+			<ymax>1170</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3162</xmin>
+			<ymin>797</ymin>
+			<xmax>3675</xmax>
+			<ymax>1207</ymax>
+		</bndbox>
+	</object>
+</annotation>
